@@ -5,12 +5,13 @@
 
 
 Auto-cleaning tool for sales lead lists.
-Built using Python 3 and other libraries.
+Built using Python 3 and other libraries listed in the next section.
 
 ## Requirements
 
 
 * Python 3.*
+* Pandas
 * Jupyter Notebook (it's probably best to install conda)
 
 
